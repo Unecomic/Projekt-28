@@ -29,7 +29,7 @@ article{
     color:DimGray;
     font-size: 150%;
     height: 350px;
-    overflow: auto;
+    overflow: visible;
 }
 
 section{
@@ -71,3 +71,4 @@ ul{
 
     list-style-image: url('obraz3.png');
 }
+
